@@ -1,22 +1,27 @@
 {
   "listMetodepembayaran": [
     {
+      "id": "d3d34g532s",
       "imgMetode": "assets/images/metodepembayaran/mySaldo.png",
       "nameMetode": "Saldo"
     },
     {
+      "id": "8ufgthy623",
       "imgMetode": "assets/images/metodepembayaran/qris.png",
       "nameMetode": "Qris"
     },
     {
+      "id": "8uhgth634t",
       "imgMetode": "assets/images/metodepembayaran/ovo.png",
       "nameMetode": "Ovo"
     },
     {
+      "id": "098uhdfgth",
       "imgMetode": "assets/images/metodepembayaran/dana.png",
       "nameMetode": "Dana"
     },
     {
+      "id": "98354hftgr",
       "imgMetode": "assets/images/metodepembayaran/gopay.png",
       "nameMetode": "Gopay"
     }

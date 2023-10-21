@@ -32,6 +32,7 @@
       "id": "1",
       "cover": "assets/images/gametopup/mobile-legend.png",
       "nameGame": "Mobile Legend Bang bang",
+      "populer": true,
       "Descripsi": "Ayo, pimpin permainanmu dengan Diamond MLBB! Top up hanya dalam hitungan detik. Cukup masukkan ID User MLBB-mu dan pilih jumlah Diamond yang kamu inginkan. Selesaikan pembayaran dengan mudah, dan Diamond akan langsung ditambahkan ke akunmu. Jangan sampai kalah dalam pertempuran, dapatkan Diamond MLBB-mu sekarang juga!",
       "price": [
         [5, 1500],
@@ -55,6 +56,7 @@
       "id": "2",
       "cover": "assets/images/gametopup/free-fire.png",
       "nameGame": "Free Fire",
+      "populer": true,
       "Descripsi": "Dapatkan Diamond Free Fire (FF) dengan mudah dan cepat! Top up Diamond Kamu sekarang juga dengan hanya beberapa langkah sederhana. Masukkan Player ID Free Fire Kamu, pilih jumlah Diamond yang Kamu butuhkan, lakukan pembayaran dengan cara yang Kamu inginkan, dan Diamond akan langsung masuk ke akun Free Fire Kamu. Jadilah yang terkuat di medan pertempuran dengan Diamond yang cukup untuk membeli skin, karakter, senjata, dan aksesori keren!",
       "price": [
         [5, 1000],
@@ -76,6 +78,7 @@
       "id": "3",
       "cover": "assets/images/gametopup/genshin.png",
       "nameGame": "Genshin Impact",
+      "populer": false,
       "Descripsi": "Ayo, pimpin permainanmu dengan Diamond MLBB! Top up hanya dalam hitungan detik. Cukup masukkan ID User MLBB-mu dan pilih jumlah Diamond yang kamu inginkan. Selesaikan pembayaran dengan mudah, dan Diamond akan langsung ditambahkan ke akunmu. Jangan sampai kalah dalam pertempuran, dapatkan Diamond MLBB-mu sekarang juga!",
       "price": [
         [6480, 1629000],
@@ -90,6 +93,7 @@
       "id": "4",
       "cover": "assets/images/gametopup/pubg.png",
       "nameGame": "PUBG Mobile",
+      "populer": true,
       "Descripsi": "Dapatkan UC (Unknown Cash) PUBG Mobile dengan mudah dan cepat! Top up UC sekarang juga untuk mendapatkan item-item keren di dalam permainan. Masukkan Player ID PUBG Mobile Anda, pilih jumlah UC yang Anda inginkan, lakukan pembayaran dengan metode yang Anda pilih, dan UC akan langsung masuk ke akun Anda. Bersiaplah untuk bertempur di medan pertempuran dengan persediaan UC yang cukup!",
       "price": [
         [60, 7900],
@@ -108,6 +112,7 @@
       "id": "5",
       "cover": "assets/images/gametopup/valorant.png",
       "nameGame": "Valorant",
+      "populer": true,
       "Descripsi": "Beli Valorant Points sekarang dan tingkatkan pengalaman bermain Valorant Anda! Dapatkan Points dalam hitungan detik dan gunakan untuk membeli karakter, senjata, dan item lainnya di dalam permainan. Pilih jumlah Valorant Points yang Anda inginkan, lakukan pembayaran dengan mudah, dan Points akan langsung masuk ke akun Anda. Jadi, siapkan diri Anda untuk pertempuran di Valorant!",
       "price": [
         [475, 49900],
@@ -123,6 +128,7 @@
       "id": "6",
       "cover": "assets/images/gametopup/fifa.png",
       "nameGame": "FIFA Online 4",
+      "populer": false,
       "Descripsi": "Beli Garena Shells sekarang dan gunakan untuk membeli item-item keren di FIFA Online 4! Dapatkan Shells dengan cepat dan mudah. Pilih jumlah Shells yang Anda inginkan, lakukan pembayaran dengan metode yang Anda pilih, dan Shells akan langsung masuk ke akun Anda. Jadilah pemain terbaik di FIFA Online 4 dengan persediaan Shells yang cukup!",
       "price": [
         [33, 10000],
@@ -139,6 +145,7 @@
       "id": "7",
       "cover": "assets/images/gametopup/clash-royale.png",
       "nameGame": "Clash Royale",
+      "populer": false,
       "Descripsi": "Dapatkan Gems Clash Royale dengan mudah dan tingkatkan kemampuan pertempuran Anda! Top up Gems sekarang juga dan gunakan untuk membuka Chest, membeli Gold, dan meningkatkan kartu Anda. Pilih jumlah Gems yang Anda inginkan, lakukan pembayaran dengan cepat, dan Gems akan langsung masuk ke akun Clash Royale Anda. Siapkan diri Anda untuk pertarungan epik di Clash Royale!",
       "price": [
         [80, 10000],
@@ -153,6 +160,7 @@
       "id": "8",
       "cover": "assets/images/gametopup/fortnite.png",
       "nameGame": "Fortnite",
+      "populer": false,
       "Descripsi": "Beli V-Bucks Fortnite sekarang dan tunjukkan gaya Anda di dalam permainan! Dapatkan V-Bucks dalam hitungan detik dan gunakan untuk membeli item-item kosmetik, Battle Pass, dan lainnya. Pilih jumlah V-Bucks yang Anda inginkan, lakukan pembayaran dengan mudah, dan V-Bucks akan langsung masuk ke akun Fortnite Anda. Bersiaplah untuk bertahan hidup dan jadi yang terakhir berdiri di Fortnite!",
       "price": [
         [1000, 99900],
@@ -168,6 +176,7 @@
       "id": "9",
       "cover": "assets/images/gametopup/overwatch.png",
       "nameGame": "Overwatch",
+      "populer": false,
       "Descripsi": "Beli Overwatch League Tokens sekarang dan dukung tim favorit Anda! Dapatkan League Tokens dalam hitungan detik dan gunakan untuk membeli skin, tag, emote, dan banyak lagi. Pilih jumlah League Tokens yang Anda inginkan, lakukan pembayaran dengan mudah, dan League Tokens akan langsung masuk ke akun Overwatch Anda. Bergabunglah dengan pertempuran tim dan buktikan kehebatan Anda di Overwatch!",
       "price": [
         [100, 99900],
@@ -182,6 +191,7 @@
       "id": "10",
       "cover": "assets/images/gametopup/codm.png",
       "nameGame": "COD Mobile",
+      "populer": false,
       "Descripsi": "Beli COD Points COD Mobile sekarang dan tingkatkan kekuatan Anda di medan pertempuran! Dapatkan COD Points dalam hitungan detik dan gunakan untuk membeli senjata, skin, Battle Pass, dan item lainnya. Pilih jumlah COD Points yang Anda inginkan, lakukan pembayaran dengan mudah, dan COD Points akan langsung masuk ke akun COD Mobile Anda. Bersiaplah untuk aksi intens di COD Mobile!",
       "price": [
         [80, 10000],
@@ -197,6 +207,7 @@
       "id": "11",
       "cover": "assets/images/gametopup/lol.png",
       "nameGame": "League of Legends",
+      "populer": false,
       "Descripsi": "Beli Riot Points League of Legends sekarang dan tingkatkan pengalaman bermain Anda! Dapatkan Riot Points dalam hitungan detik dan gunakan untuk membeli skin, champion, ward skin, dan item lainnya. Pilih jumlah Riot Points yang Anda inginkan, lakukan pembayaran dengan mudah, dan Riot Points akan langsung masuk ke akun League of Legends Anda. Bersiaplah untuk bertarung di medan pertempuran di League of Legends!",
       "price": [
         [500, 59900],
@@ -212,6 +223,7 @@
       "id": "12",
       "cover": "assets/images/gametopup/point-blank.png",
       "nameGame": "Point Blank",
+      "populer": true,
       "Descripsi": "Beli Cash Point Blank sekarang dan tingkatkan kemampuan pertempuran Anda! Dapatkan Cash dalam hitungan detik dan gunakan untuk membeli senjata, karakter, item, dan aksesori di dalam permainan. Pilih jumlah Cash yang Anda inginkan, lakukan pembayaran dengan mudah, dan Cash akan langsung masuk ke akun Point Blank Anda. Bersiaplah untuk pertempuran sengit di Point Blank!",
       "price": [
         [50000, 50000],
